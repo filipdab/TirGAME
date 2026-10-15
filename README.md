@@ -1,5 +1,7 @@
 # TIR Simulator 3D (macOS)
 
+> Wersja na Windows, macOS i Linux (Python + Panda3D) jest w folderze [`python/`](python/README.md).
+
 Gra 3D (SceneKit): jeździsz ciężarówką z naczepą po mapie Polski, bierzesz zlecenia w miastach, wieziesz towar i zarabiasz. Kamera jedzie za ciężarówką, a nad sceną jest HUD z minimapą i strzałką do celu.
 
 ## Wymagania
