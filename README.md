@@ -9,13 +9,13 @@ Gra 3D (SceneKit): jeździsz ciężarówką z naczepą po mapie Polski, bierzesz
 - Xcode (albo same Command Line Tools: `xcode-select --install`)
 
 ## Uruchomienie
-W Terminalu, w folderze `tir-game-3d`:
+W Terminalu, w głównym folderze repozytorium (tam, gdzie jest `Package.swift`):
 
 ```
 swift run -c release
 ```
 
-Albo w Xcode: **File → Open…**, wskaż folder `tir-game-3d` (plik `Package.swift`), potem ▶︎ Run (Cmd+R).
+Albo w Xcode: **File → Open…**, wskaż główny folder repozytorium (plik `Package.swift`), potem ▶︎ Run (Cmd+R).
 
 ## Sterowanie
 | Klawisz | Akcja |
